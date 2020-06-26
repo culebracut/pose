@@ -1,0 +1,9 @@
+# ninja log v5
+1	291	1593060453	/home/system/workspace/trt_pose/build/temp.linux-aarch64-3.6/trt_pose/parse/refine_peaks.o	b68c1d0e5e8b93b7
+0	386	1593060453	/home/system/workspace/trt_pose/build/temp.linux-aarch64-3.6/trt_pose/parse/find_peaks.o	e2cf76720955e97
+1	464	1593060453	/home/system/workspace/trt_pose/build/temp.linux-aarch64-3.6/trt_pose/parse/paf_score_graph.o	c6b978a928baa506
+2	1149	1593060454	/home/system/workspace/trt_pose/build/temp.linux-aarch64-3.6/trt_pose/parse/connect_parts.o	e64a4b955a532339
+2	2728	1593060455	/home/system/workspace/trt_pose/build/temp.linux-aarch64-3.6/trt_pose/parse/munkres.o	9e594cf81ce562d4
+9	72029	1593060525	/home/system/workspace/trt_pose/build/temp.linux-aarch64-3.6/trt_pose/train/generate_paf.o	4bf6a51deeefb3be
+8	72035	1593060525	/home/system/workspace/trt_pose/build/temp.linux-aarch64-3.6/trt_pose/train/generate_cmap.o	defc00148a3366db
+3	89816	1593060542	/home/system/workspace/trt_pose/build/temp.linux-aarch64-3.6/trt_pose/plugins.o	25ba5fdca0145a67

@@ -1,0 +1,9 @@
+PYTHON DEPENDENCIES
+Cython
+torch-1.5.0-cp36-cp36m-linux_aarch64.whl 
+
+TO FIND MISSING libraries
+ldd ~/.local/lib/python3.6/site-packages/torch/_C.cpython-36m-aarch64-linux-gnu.so
+
+sudo apt install libopenblas-dev
+sudo apt-get install libopenmpi-dev
